@@ -11,4 +11,4 @@ This is an ongoing research. I will upload more examples once I finish coding th
 
 <b>GiftCardManagement</b> : This application will allow a customer to load a certain amount of cash into different forms like a gift card, single-use gift card, reloadable gift card, or a debit card using which he/she can purchase a product. It will also allow the available gift card amount to be converted into cash just in case the user needs the cash. Essentially, we have defined different classes( Cash, GiftCard, DebitCard, SingleUseGiftCard, and ReloadableGiftCard) and constructed design-time contracts around those classes using JML. The goal of the project is to ensure all the classes are protected by JML to ensure there are no design-time errors.  (Of course, this doesn't apply to Client.java)
 
-Client.java: This is the client file that is used for testing the program. All the design time tests are passed. 
+<b>Client.java</b>: This is the client file that is used for testing the program. All the design time tests are passed. 
